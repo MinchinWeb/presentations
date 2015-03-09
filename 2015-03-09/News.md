@@ -9,6 +9,20 @@
 		* https://us.pycon.org/2015/schedule/talks/
 	* Sprints: April 13-16
 
+* Startup Edmonton Code Meetup
+
 ## Articles, Tutorials and Talks
 
+* Creating PDF Reports with Pandas, Jinja and WeasyPrint
+	* http://pbpython.com/pdf-reports.html
+
+* Docker in Action - Fitter, Happier, More Productive
+	* https://realpython.com/blog/python/docker-in-action-fitter-happier-more-productive/
+
 ## Releases
+
+* Python 3.4.3
+	* https://www.python.org/downloads/release/python-343/
+
+* IPython 3.0
+	* http://ipython.org/ipython-doc/3/whatsnew/version3.html
