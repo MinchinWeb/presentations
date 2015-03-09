@@ -10,6 +10,9 @@
 	* Sprints: April 13-16
 
 * Startup Edmonton Code Meetup
+	* Meetup for people who want to learn more about computer science using Python 3
+	* Starting in April
+	* To volunteer or attend the meetup, contact carl@startupedmonton.com
 
 ## Articles, Tutorials and Talks
 
