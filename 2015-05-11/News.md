@@ -36,3 +36,6 @@
 
 * pandas 0.16.1
 	* http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
+
+* Python 2.7.10 is coming
+	* Be careful about version checks
