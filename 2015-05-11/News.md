@@ -6,6 +6,15 @@
 	* Videos
 		* http://pyvideo.org/category/65/pycon-us-2015
 
+* Startup Edmonton Code Meetup
+	* Meetup for people who want to learn more about computer science using Python 3
+	* Started in April
+	* To volunteer or attend the meetup, contact carl@startupedmonton.com
+
+* Monthly Stratup Edmonton Hack Day
+	* To be a Python mentor, email Lauren Briske - lauren@startupedmonton.com
+	* http://www.eventbrite.ca/e/june-hack-day-tickets-16901461727
+
 ## Articles, Tutorials and Talks
 
 * GitHub + Jupyter Notebooks = <3
