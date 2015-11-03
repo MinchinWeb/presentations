@@ -22,7 +22,16 @@
 * 27 languages to improve your Python
 	* http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html
 
+* Do You Know How Much Your Computer Can Do In A Second?
+	* http://computers-are-fast.github.io
+
+* Must-watch videos about Python
+	* https://github.com/s16h/py-must-watch
+
 ## Releases
 
 * pandas 0.17
 	* http://pandas.pydata.org/pandas-docs/version/0.17.0/whatsnew.html
+
+* PyPy 4.0.0
+	* http://morepypy.blogspot.ca/2015/10/pypy-400-released-jit-with-simd.html
