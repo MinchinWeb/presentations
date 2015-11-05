@@ -35,3 +35,6 @@
 
 * PyPy 4.0.0
 	* http://morepypy.blogspot.ca/2015/10/pypy-400-released-jit-with-simd.html
+
+* Anaconda 2.4.0
+	* https://www.continuum.io/blog/company-blog/anaconda-24-release
