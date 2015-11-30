@@ -22,4 +22,10 @@
 * pipdeptree
 	* https://github.com/naiquevin/pipdeptree
 
+* Python 3.5 type hinting in PyCharm 5
+	* http://blog.jetbrains.com/pycharm/2015/11/python-3-5-type-hinting-in-pycharm-5/
+
+* How to Make Mistakes in Python
+	* http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
+
 ## Releases
