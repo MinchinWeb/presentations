@@ -29,3 +29,14 @@
 	* http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
 
 ## Releases
+
+* Python 2.7.11
+	* https://www.python.org/downloads/release/python-2711/
+	* "Thanks to computed-gotos, you should get a nice performance boost"
+		* https://twitter.com/raymondh/status/673442016320073729
+
+* Python 3.5.1
+	* https://www.python.org/downloads/release/python-351/
+
+* Django 1.9
+	* https://www.djangoproject.com/weblog/2015/dec/01/django-19-released/
