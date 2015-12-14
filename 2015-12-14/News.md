@@ -28,6 +28,19 @@
 * How to Make Mistakes in Python
 	* http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf
 
+* Django awarded the Mozilla Open Source Support Grant
+	* https://blog.mozilla.org/blog/2015/12/10/mozilla-open-source-support-first-awards-made/
+	* $150,000 to rewrite the core of Django to support WebSockets, background tasks and intergrate parts of the Django REST Framework request/response code
+
+* Python list comprehensions explained visually
+	* http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/ 
+
+* Machine learning for beginners
+	* http://pythonforengineers.com/machine-learning-for-complete-beginners/
+
+* Django admin - 9 tips
+	* https://alexmorozov.github.io/why-you-should-use-the-django-admin-9-tips.html 
+
 ## Releases
 
 * Python 2.7.11
