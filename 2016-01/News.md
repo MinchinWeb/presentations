@@ -10,4 +10,7 @@
 
 ## Articles, Tutorials and Talks
 
+* Python Anti-Patterns
+	* http://docs.quantifiedcode.com/python-code-patterns/latex/The-Little-Book-of-Python-Anti-Patterns-1.0.pdf
+
 ## Releases
