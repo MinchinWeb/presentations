@@ -9,5 +9,13 @@
 	* Sprints: June 2 - 5
 
 ## Articles, Tutorials and Talks
+* Useful Python Snippets
+	* http://fadymak.com/pages/useful_python_snippets.html
+
+* Celery best practices
+	* https://blog.balthazar-rouberol.com/celery-best-practices
+
+* The benefits of static typing without static typing in Python
+	* http://pawelmhm.github.io/python/static/typing/type/annotations/2016/01/23/typing-python3.html
 
 ## Releases
