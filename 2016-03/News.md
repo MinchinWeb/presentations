@@ -32,5 +32,8 @@
 * Python with Context Managers
 	* http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/
 
+* Idiomatic Python: comprehensions
+	* https://blogs.msdn.microsoft.com/pythonengineering/2016/03/14/idiomatic-python-comprehensions/
+
 * How to Deploy Software
 	* https://zachholman.com/posts/deploying-software
