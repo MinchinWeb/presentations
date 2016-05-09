@@ -10,4 +10,18 @@
 
 ## Articles, Tutorials and Talks
 
-## Releases
+* What’s New In Python 3.6
+	* https://docs.python.org/3.6/whatsnew/3.6.html
+
+* Composing Programs
+	* http://composingprograms.com/
+
+* coala
+	* Language independent analysis toolkit
+	* https://github.com/coala-analyzer/coala
+
+* Pip and the Python Packaging Authority with Donald Stufft
+	* http://pythonpodcast.com/donald-stufft-pip.html
+
+* Modern Pandas (Part 1)
+	* http://tomaugspurger.github.io/modern-1.html
