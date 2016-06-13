@@ -15,5 +15,17 @@
 
 * 5 reasons you need to learn to write Python decorators
 	* https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decorators
+   
+* PyCon 2016 Videos
+    * https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos 
+
+* The 2016 Python Language Summit
+    * http://lwn.net/Articles/688969/
+
+* Python Data Visualization Libraries
+    * https://blog.modeanalytics.com/python-data-visualization-libraries/ 
 
 ## Releases
+
+* Flask 0.11 
+    * https://www.palletsprojects.com/blog/flask-011-released/
