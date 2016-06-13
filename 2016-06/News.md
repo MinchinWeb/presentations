@@ -14,6 +14,9 @@
 * 5 reasons you need to learn to write Python decorators
 	* https://www.oreilly.com/ideas/5-reasons-you-need-to-learn-to-write-python-decorators
 
+* Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source
+	* https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
+
 * PyCon 2016 Videos
 	* https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos
 
@@ -22,9 +25,6 @@
 
 * Python Data Visualization Libraries
 	* https://blog.modeanalytics.com/python-data-visualization-libraries/
-
-* Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source
-	* https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html
 
 ## Releases
 
