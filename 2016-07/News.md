@@ -79,3 +79,6 @@
 
 * Hypothesis 3.4.1
     * http://hypothesis.works/articles/hypothesis-3.4.1-release/
+
+* CFFI wheels for linux
+    * https://www.python.org/dev/peps/pep-0513/
