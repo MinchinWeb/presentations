@@ -40,6 +40,9 @@
 * Socli
     * https://github.com/gautamkrishnar/socli
 
+* Reverse debugger with pypy
+    * https://morepypy.blogspot.ca/2016/07/reverse-debugging-for-python.html
+
 
 ### Podcasts
 
@@ -69,3 +72,13 @@
         * https://www.python.org/dev/peps/pep-0492/
     * PEP 441 -- Improving Python ZIP Application Support
         * https://www.python.org/dev/peps/pep-0441/
+
+* Twisted 16.3
+    * http://labs.twistedmatrix.com/2016/07/twisted-163-released.html
+    * HTTP/2 server support
+
+* Hypothesis 3.4.1
+    * http://hypothesis.works/articles/hypothesis-3.4.1-release/
+
+* CFFI wheels for linux
+    * https://www.python.org/dev/peps/pep-0513/
